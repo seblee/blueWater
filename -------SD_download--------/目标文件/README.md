@@ -1,0 +1,27 @@
+# HAC02D1 软件
+
+#### 介绍 
+blueWater UPGRADE NOTE
+author:lys
+
+#### 软件架构 
+DGUSII+T5L_C51
+
+#### 安装教程
+
+1.  xxxx
+2.  xxxx
+3.  xxxx
+
+#### 使用说明
+
+1.   将 DWIN_SET 放到SD卡根目录 
+2.   SD卡装到屏上
+3.   重新上电 等待烧写完成 
+## warning:含配置文件烧写时，有时有黑屏现象，须等待完全烧写完成(保持上电10分钟)才可断电重启 否则可能出现黑屏无法启动现象
+
+#### release Note
+## Date:
+    lys 2021-11-2 16:59:19
+## note:
+1. 初版
