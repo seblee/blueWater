@@ -1,0 +1,3 @@
+[submodule "blueWater_C51"]
+	path = blueWater_C51
+	url = git@gitee.com:xiaowine/blueWater_C51.git
