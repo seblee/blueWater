@@ -22,6 +22,12 @@ DGUSII+T5L_C51
 
 #### release Note
 ## Date:
+    lys 2021-11-12 17:25:18
+## note:
+1. 修复制水图标显示问题
+
+
+## Date:
     lys 2021-11-2 16:59:19
 ## note:
 1. 初版
