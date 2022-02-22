@@ -22,6 +22,12 @@ DGUSII+T5L_C51
 
 #### release Note
 ## Date:
+    lys 2022-2-22 17:47:56
+## note:
+1. 参数设置页面增加 DI_P;DI_M;AI_M。
+
+
+## Date:
     lys 2022-1-11 11:56:56
 ## note:
 1. 增加参数设置页面
